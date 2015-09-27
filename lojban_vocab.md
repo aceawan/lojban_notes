@@ -143,3 +143,33 @@
 - lo cabdei : aujourd'hui
 - xunre : est rouge
 - raktu :x1 (object/person/event/situation) dérange x2 (person) causant les problèmes x3
+- ctuca : enseigner
+- djuna : vouloir
+- xamgu : être bon pour (quelqu'un)
+- zbasu : x1 construit, fabrique x2 avec du x3
+- lo stizu : une chaise
+- lo mudri : bois
+- lo tcadu : ville
+- tugni : x1 est d'accord avec x2 à propos de x3 (proposition)
+- cinmo : x1 ressent l'émotion x2 (propriété de x1) à propos de x3
+- tavla : x1 parle à x2 à propos de x3
+- nitcu : x1 a besoin de x2
+- lo mikce : médecin
+- birka : est un bras de
+- clani : est long, grand
+- bruna : x1 est le frère de x2
+- panzi : x1 est l'enfant, la descendance de x2
+- ralte : x1 a / possède x2
+- cusku : x1 dit, exprime x2 (citation) à l'audience x3
+- restku : x1 demande x2 (citation) à l'audience x3
+- spusku : x1 répond x2 à x3
+- xabju : habiter (qqpart)
+- tatpi : être fatigué
+- jungo : x1 est chinois/reflète la culture chinoise par l'aspect x2
+- pulji : x1 est un officier de police/gendarme
+- sanga : chanter
+- xebni : haïr
+- fengu : x1 être en colère contre x2 pour x3
+- cinba : x1 embrasse x2 à l'endroit x3
+- zukte : x1 fait x2 pour le but x3
+- lumci : nettoyer

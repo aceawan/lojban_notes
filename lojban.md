@@ -113,6 +113,14 @@ ex : lo nu pinxe lo ladru cu nabmi mi — *Boire du lait est problématique pour
 
 ##Prépositions
 
+- Quand on utilise des prépositions avec des selbri composés avec `nu`, il faut bien faire attention au placement de la préposition. Elle peut s'appliquer autant à la proposition qui est transformée en selbri qu'à la phrase en général.
+
+ex:
+
+- lo nu ctida ca cu nandu — *La lecture que je suis en train de faire, est difficile*
+
+- lo nu ctida cu ca nandu — *La lecture que je fais, est difficile en ce moment*
+
 ####Les prépositions de temps
 
 - `pu` signifie "avant (un évenement)"
@@ -307,7 +315,7 @@ ex:
 
 - Les relatives courtes permettent juste d'attacher un nom à un autre nom. On utiliser pour ça les mots `pe` et `ne`, qui sont similaires à `poi` et `noi` mais qui ne connectent que des noms (et des pronoms) ensembles.
 
-ex: 
+ex:
 
 - lo penbi pe mi cu xunre — *Mon stylo est rouge*
 - mi djuna zo'e pe do — *Je sais quelque chose à propos de toi*
@@ -322,3 +330,200 @@ Pour exprimer des phrases comme "il est un professeur" ou il est le professeur",
 - La particule `me` se place avant un nom, montre qu'il y en a probablement d'autres, mais que ce nom en fait partie.
 
 - La particule `du` se place également avant un nom, est montre qu'il est, par exemple, le professeur qu'on cherchait ou celui dont on parlait.
+
+ex:
+
+- le nakni cu ctuca — *Il enseigne*
+- le nakni cu me lo ctuca — *Il est un enseignant*
+- le nakni cu do lo ctuca — *Il est l'enseignant*
+
+- `me` et `du` agissent un peu comme des verbes.
+
+- `me` peut être appliqué à des pronoms
+
+ex: xu do djica lo nu do me mi'ai — *Est-ce que tu veux être l'un d'entres nous ?*
+
+- `noi du` et `poi du` sont utilisé pour introduire des noms alternatifs pour quelque chose. Ils correspondent au français "nommément".
+
+ex: la .alis. cu penmi lo prenu noi du la .abdul. — *Alice a rencontré une personne, nommément abdul*
+
+##Changer la place des sumti d'un selbri
+
+Dans l'exemple suivant :
+
+- do dunda ti mi — *Tu me donnes ceci*
+- ti se dunda do mi — *Ceci est ton don, pour moi*
+
+- On voit qu'on peut échanger les emplacements du premier et du deuxième sumti en place le mot clé `se` juste avant le selbri.
+
+- Ces deux phrases ont la même signification, elles ne varient que dans le style.
+- On peut utiliser ce procédé pour accentuer qqch dans la phrase.
+
+- La même chose peut être faite avec les noms communs.
+
+exs:
+
+- lo dunda — *Celui qui donne, le donneur*
+- lo se dunda — *Ce qui est donné, le cadeau, le don*
+
+- On peut changer la place d'autre sumti:
+	- `se` échange le premier et le deuxième sumti
+	- `te` échange le premier et le troisième sumti
+	- `ve` échange le premier et le quatrième sumti
+	- `xe` échange le premier et le cinquième sumti
+
+On peut en dériver :
+
+- lo klama : *le marcheur, voyageur*
+- lo se klama : *la destination*
+- lo te klama : *la provenance*
+- lo ve klama : *la route*
+- lo xe klama ! *le véhicule, le moyen de déplacement*
+
+##Spécifier l'ordre des sumtis
+
+- On peut faire précéder les sumti par des prépositions pour préciser quel emplacement de sumti ils occupent.
+- Ces 5 prépositions sont les suivantes : `fa`, `fe`, `fi`, `fo`, `fu`, qui spécifient respectivement l'emplacement n°1, 2, 3, etc ...
+
+ex:
+
+- fe mi prami fa do — *Tu m'aimes*
+- mi klama fi lo tcadu — *Je viens de la ville*
+
+- Une grande utilisation des prépositions d'emplacement peut rendre le discours difficile à comprendre, mais permet une plus grande liberté.
+
+- Tant qu'on garde les sumtis dans le bon ordre, on peut également placer le selbri où on le souhaite. Les phrases suivantes ont un sens équivalent:
+
+- mi dunda lo plise do
+- mi lo plise cu dunda do
+- mi lo plise do dunda
+
+##Infinitif
+
+- Le mot `ka` précède un verbe, et donne la forme infintive de ce dernier.
+
+ex:
+- lo mlatu cu djica lo ka pinxe — *Un chat veut boire*
+- mi gleki lo ka jinga — *Je suis content de gagner*
+
+- Certains selbri requièrent des infinitifs pour certains sumti.
+
+##Il y'a
+
+- L'utilisation d'un nombre seul, sans `lo`, pour précéder un nom, signifie «il y' qqch qui», en d'autres termes cela postule l'existence d'une entité dans le discours.
+
+ex:
+
+- lo pa mlatu cu pinxe lo ladru — *Un chat boit du lait*
+- pa lo mlatu cu pinxe lo ladru — *Un des chats boit du lait*
+- pa mlatu cu pinxe lo ladru — *Il y a un chat qui boit du lait*
+
+- Quand il y a plusieurs sujets, l'action concerne chacun des sujets.
+
+ex: ci mlatu cu citka re finpe — *Il y a trois chats, chacun mange deux poissons*
+
+- Il est important de noter que les mots formés avec `lo` décrivent un objet en général et non pas un des ses instances particulières.
+
+##Il y a qqch/qqn/qqpart/...
+
+- Le pronom `da` se traduit par "il y a qqch/qqn"
+- `da` réfère toujours à la même chose quand il est utilisé plusieurs fois dans une proposition
+- les noms qui commencent par `lo` peuvent référer à différentes choses quand ils sont utilisés plusieurs fois dans une même proposition.
+- Il en est de même pour des mots qui commencent par `pa`
+- On l'utilise également pour traduire le verbe «avoir»
+
+ex:
+- pa da bruna mi — *Quelqu'un est mon frère* -> «J'ai un frère»
+- da mamta mi — *J'ai une mère*
+
+##Commentaires
+
+- Le mot `sei` permet d'introduire un commentaire dans une proposition pour préciser votre attitude par rapport à cette proposition.
+
+ex : do jinga sei mi gleki — *Tu as gagné, et j'en suis heureux*
+
+- Comme les noms formés avec `lo`, les propositions formées avec `sei` doivent se terminer par un verbe
+
+- `sei` peut être utilisé pour citer.
+
+ex : mi prami lo dutka sei le fetsi pu cusku — *J'aime les canards, dit-elle*
+
+##Citations
+
+- Pour citer une phrase dans un texte lojban, on peut utiliser le mot `lu` pour commencer une citation et le mot `li'u` pour la terminer.
+
+ex: mi cusku lu mi prami do li'u — *Je dis «je t'aime»*
+
+- Cette forme est très pratique pour marquer la citation à l'oral sans avoir à changer de ton, mais à l'écrit, quand on a des complexifications, il vaut mieux utiliser sei
+
+ex:
+
+- la .ian. pu cusku lu la .djein. pu cusku lu coi li'u mi li'u — *Ian a dit : «Jane m'a dit : "Salut"»* 
+
+est similaire à:
+
+- la .ian. pu cusku lu la .djein. pu rinsa mi li'u
+
+- `lu` et `li'u` peuvent être utilisés quand on veut parler d'un mot en lui même et pas de ce qu'il représente.
+
+ex:
+
+- lu le munje li'u cu cmalu — «l'univers» est petit.
+- le munje na cmalu — L'univers n'est pas petit.
+
+##Citer un mot
+
+- `zo` ce place avant **un** mot que l'on veut citer, et n'a donc pas besoin de marqueur de fin.
+
+ex: zo kentin cmene mi — *quentin est mon nom. Mon nom est quentin*
+
+- C'est ainsi qu'on se présente en lojban. Si on veut se présenter en utilisant plus que son nom ou son prénom seul, on utilise `lu`.
+
+##Q-Questions
+
+Le lojban a un système un peu différent pour l'équivalent des Q-Questions en anglais. Il se base sur l'utilisation du mot `ma`. `ma` va venir remplacer le mot qui constituerait la réponse à notre q-question dans une phrase déclarative, et peut ainsi grâce aux significations précises des sumti, remplacer toutes les q-questions.
+
+ex: 
+
+- do klama ma — *Où vas-tu ?*
+- do me ma — *Qui est tu ?*
+- ma klama la .paris. — *Qui va à Paris ?* 
+
+- `ma` s'utilise fréquemment avec des clauses relatives.
+
+ex: do xabju ma noi gugde — tu habites quoi, qui est un pays ? — *Dans quel pays vis-tu ?*
+
+- `mo` est similaire à `ma`, mais il prend la place du verbe.
+
+ex : do mo — Tu es quoi ? Tu fais quoi ? — *Comment vas tu ?*
+
+- C'est la façon la plus courante de demande «comment ça va ?» en lojban. On peut répondre à cela «mi gleki» ou «mi kanro».
+
+ex : 
+
+- ti mo — *qu'est ce que c'est que ça ?*
+- la .ninas. cu mo — *Qui/quoi/qu'est ce que fait ou est Nina ?*
+- do mo la .mumoi.
+
+- comme tout les verbes `mo` ne précise aucun temps.
+
+- Pour différencier «faire quelque chose» et «être qqch/qqn», on utilise quelques verbes avec `ma`.
+
+ex:
+
+- la .xrisa. cu zukte ma — *nina fait quoi ?*
+- la .xrisa. cu zukte lo ka lumci — *Nina fait le ménage*
+
+combiner des prépositions avec `ma` peut donner des questions intéressantes:
+
+- ca ma — *quand ?*
+- bu'u ma — *où ?*
+- ma noi prenu — *qui ?*
+- ma noi dacti — *quoi ?*
+- ri'a ma – *pourquoi ?*
+- pe ma — *à qui ?* — lo penbi pe ma cu zvati lo jubme — *à qui est le stylo qui est sur la table ?*
+- lo mlatu poi mo — *Quel chat/ Quel genre de chat ?*
+ 
+##Questions de quantité
+
+- Pour demander combien, on utilise une phrase déclarative où on remplace le chiffre/la quantité que l'on veut connaître par le mot clé `xo`
