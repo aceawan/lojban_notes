@@ -527,3 +527,93 @@ combiner des prépositions avec `ma` peut donner des questions intéressantes:
 ##Questions de quantité
 
 - Pour demander combien, on utilise une phrase déclarative où on remplace le chiffre/la quantité que l'on veut connaître par le mot clé `xo`
+
+##Verbes de faits
+
+- Quand on utilise certains verbes, on veut parler de fait (le verbe «savoir» ou «comprendre»). Pour ces verbes, on ne peut pas utiliser le mot `nu` qui précède un événement. On doit utiliser le mot `du'u`.
+
+ex :
+
+- mi djuno lo du'u do stati — *Je sais que tu es intelligent*
+- mi sruma lo nu do pu citka — *Je suppose que tu mangeais*
+
+- Confondre `nu` et `du'u` n'entrave pas la compréhension mais est une faute.
+
+##Questions indirectes
+
+- Il arrive qu'on veuille utiliser les mots introduisant des questions pour relier plusieurs proposition («je sais où tu habites»). On peut pour cela utiliser le mot `kau` juste après ce mot dans une phrase.
+
+ex:
+
+- mi djuno lo du'u ma kau tadni la .lojban. — *Je sais qui étudie le lojban*
+- mi djuno lo du'u xo kau prenu cu tadni la .lojban. — *Je sais combien de personnes étudient le lojban.*
+
+##Citation indirecte
+
+Pour rapporter un discours, il est possible d'utiliser le mot `se du'u`.
+
+ex:
+
+- le fetsi pu retsku lo se du'u mi klama makau — *Elle a demandé où j'allais*
+- mi pu spusku lo se du'u mi klama lo zdani — *J'ai répondu que j'allais à la maison*
+
+- Donc, le Lojban a plusieurs mots pour relier des propositions:
+	- Si la proposition décrit ce qui peut être vu, entendu ou ce qui arrive, utiliser `nu`
+	- Si la proposition décrit une pensée, un fait ou une info, utiliser `du'u`
+	- Si la proposition décrit ce qu'on dit, utiliser `se du'u`
+	- Si on a besoin d'une citation littérale, utiliser `lu` et `li'u`
+
+##Interjections émotionelles
+
+- On connait déjà quelques interjections, comme `ko'oi`, `.e'o` ou `je'u`. D'autres interjections sont utilisées pour exprimer des états émotionels, et ils sont utilisés un peu comme des smileys.
+
+- Les interjections émotionelles sont utilisées comme `sei`. Et généralement, elle peuvent s'exprimer avec une clause `sei`.
+
+ex:
+
+- do jinga .ui — *Tu as gagné ! (et j'en suis heureux)*
+
+Qu'on aurait pu dire
+
+- do djinga sei mi gleki
+
+exs:
+
+- .ai mi vitke do — *Je vais venir te visiter*
+- .au do kanro — *J'aimerais que tu sois en bonne santé*
+- .a'o do clira volve — *J'espère que tu vas rentrer tôt*
+- .e'a do nerkla — *Entre, je t'en prie*
+- .e'o mi ciksi  da poi mi cusku djica — *S'il te plait, laisse moi t'expliquer ce que je veux dire*- .e'u do pinxe lo jisra — *Tu devrais boire le jus*
+- .ei mi ciska lo xatra — *Je devrais écrire une lettre*
+- .i'e do pu gunka  lo vajni — *Fantastique ! Tu as fais du très bon boulot*
+- .ie : *Yay !*
+- .o'u tu mlatu : *Oh, c'est seulement un chat*
+- .u'i ti zmiku : *Haha, c'est un robot*
+
+##Structure des interjections
+
+- Une interjection peut être constituée de :
+
+1. une interjection de base
+2. des suffixes comme `pei`, `dai`, `zo'o`
+3. Un suffixe peut modifier une interjection seule ou un groupe interjection-affixe(s)
+
+ex:
+
+- .ui nai (hélas)
+- .ui zo'o (yay ! (je plaisante, je ne suis pas vraiment heureux))
+- .ui nai zo'o nai (hélas, je ne plaisante pas, je suis malheureux)
+
+
+- Les affixes sont placés après l'interjection de base
+- On peut faire une question à partir d'une interjection
+
+ex: .e'a pei mi klama — *Je peux y aller ?*
+
+- On peut exprimer les sentiments des autres
+
+- .a'o dai do reisku — *tu demandes plein espoir ?*
+
+- On peut demander ce que ressens l'interlocuteur.
+
+- pei lo lunra cu crino - .ie nai — *La lune est verte (qu'est ce que ça t'inspire ?) - Je ne suis pas d'accord*

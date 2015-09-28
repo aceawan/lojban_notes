@@ -34,9 +34,28 @@
 - xu : question
 - je'u : oui, vrai
 - nai : négation d'une interjection
+- cu'i : milieu de l'interjection (sens médian entre son sens et son sens contraire)
+- sai : intensifie l'interjection
+- pei : transforme une interjection en question
+- dai : l'interjection exprime les sentiments de qqn d'autre ?
+- zo'o : montre que le sentiment exprimé par l'interjection n'est pas sérieux (ironie, sarcasme)
+- pei : permet de demander quelle interjection l'interlocuteur trouverait appropriée.
 - ko'oi : impératif
 - .e'o : demande polie, s'il vous plait
 - ku'i : pourtant
+- .ui : bonheur
+- .ai : intention
+- .au : désir
+- .a'o : espoir
+- .e'a : permission
+- .e'u : suggestion
+- .ei : obligation
+- .i'e : approbation
+- .ie : accord (yeah)
+- .o'u : few, soulagement
+- .u'i : amusement
+- ju'o : certitude - incertitude - impossibilité
+- ki'e : merci - non merci
 
 ##Vocatifs
 
@@ -160,8 +179,6 @@
 - bruna : x1 est le frère de x2
 - panzi : x1 est l'enfant, la descendance de x2
 - ralte : x1 a / possède x2
-<<<<<<< HEAD
-=======
 - cusku : x1 dit, exprime x2 (citation) à l'audience x3
 - restku : x1 demande x2 (citation) à l'audience x3
 - spusku : x1 répond x2 à x3
@@ -175,4 +192,6 @@
 - cinba : x1 embrasse x2 à l'endroit x3
 - zukte : x1 fait x2 pour le but x3
 - lumci : nettoyer
->>>>>>> 2d903eeabb7921bb0b39c273634a1bcd24dbd774
+- restku : demander
+- spusku : répondre
+- lo zmiku : un robot
