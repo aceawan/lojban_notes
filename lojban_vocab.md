@@ -143,3 +143,20 @@
 - lo cabdei : aujourd'hui
 - xunre : est rouge
 - raktu :x1 (object/person/event/situation) dérange x2 (person) causant les problèmes x3
+- ctuca : enseigner
+- djuna : vouloir
+- xamgu : être bon pour (quelqu'un)
+- zbasu : x1 construit, fabrique x2 avec du x3
+- lo stizu : une chaise
+- lo mudri : bois
+- lo tcadu : ville
+- tugni : x1 est d'accord avec x2 à propos de x3 (proposition)
+- cinmo : x1 ressent l'émotion x2 (propriété de x1) à propos de x3
+- tavla : x1 parle à x2 à propos de x3
+- nitcu : x1 a besoin de x2
+- lo mikce : médecin
+- birka : est un bras de
+- clani : est long, grand
+- bruna : x1 est le frère de x2
+- panzi : x1 est l'enfant, la descendance de x2
+- ralte : x1 a / possède x2
