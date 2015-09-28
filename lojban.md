@@ -450,4 +450,80 @@ ex : mi prami lo dutka sei le fetsi pu cusku — *J'aime les canards, dit-elle*
 
 ##Citations
 
-Pour citer une phrase dans un texte lojban, on peut utiliser
+- Pour citer une phrase dans un texte lojban, on peut utiliser le mot `lu` pour commencer une citation et le mot `li'u` pour la terminer.
+
+ex: mi cusku lu mi prami do li'u — *Je dis «je t'aime»*
+
+- Cette forme est très pratique pour marquer la citation à l'oral sans avoir à changer de ton, mais à l'écrit, quand on a des complexifications, il vaut mieux utiliser sei
+
+ex:
+
+- la .ian. pu cusku lu la .djein. pu cusku lu coi li'u mi li'u — *Ian a dit : «Jane m'a dit : "Salut"»*
+
+est similaire à:
+
+- la .ian. pu cusku lu la .djein. pu rinsa mi li'u
+
+- `lu` et `li'u` peuvent être utilisés quand on veut parler d'un mot en lui même et pas de ce qu'il représente.
+
+ex:
+
+- lu le munje li'u cu cmalu — «l'univers» est petit.
+- le munje na cmalu — L'univers n'est pas petit.
+
+##Citer un mot
+
+- `zo` ce place avant **un** mot que l'on veut citer, et n'a donc pas besoin de marqueur de fin.
+
+ex: zo kentin cmene mi — *quentin est mon nom. Mon nom est quentin*
+
+- C'est ainsi qu'on se présente en lojban. Si on veut se présenter en utilisant plus que son nom ou son prénom seul, on utilise `lu`.
+
+##Q-Questions
+
+Le lojban a un système un peu différent pour l'équivalent des Q-Questions en anglais. Il se base sur l'utilisation du mot `ma`. `ma` va venir remplacer le mot qui constituerait la réponse à notre q-question dans une phrase déclarative, et peut ainsi grâce aux significations précises des sumti, remplacer toutes les q-questions.
+
+ex:
+
+- do klama ma — *Où vas-tu ?*
+- do me ma — *Qui est tu ?*
+- ma klama la .paris. — *Qui va à Paris ?*
+
+- `ma` s'utilise fréquemment avec des clauses relatives.
+
+ex: do xabju ma noi gugde — tu habites quoi, qui est un pays ? — *Dans quel pays vis-tu ?*
+
+- `mo` est similaire à `ma`, mais il prend la place du verbe.
+
+ex : do mo — Tu es quoi ? Tu fais quoi ? — *Comment vas tu ?*
+
+- C'est la façon la plus courante de demande «comment ça va ?» en lojban. On peut répondre à cela «mi gleki» ou «mi kanro».
+
+ex :
+
+- ti mo — *qu'est ce que c'est que ça ?*
+- la .ninas. cu mo — *Qui/quoi/qu'est ce que fait ou est Nina ?*
+- do mo la .mumoi.
+
+- comme tout les verbes `mo` ne précise aucun temps.
+
+- Pour différencier «faire quelque chose» et «être qqch/qqn», on utilise quelques verbes avec `ma`.
+
+ex:
+
+- la .xrisa. cu zukte ma — *nina fait quoi ?*
+- la .xrisa. cu zukte lo ka lumci — *Nina fait le ménage*
+
+combiner des prépositions avec `ma` peut donner des questions intéressantes:
+
+- ca ma — *quand ?*
+- bu'u ma — *où ?*
+- ma noi prenu — *qui ?*
+- ma noi dacti — *quoi ?*
+- ri'a ma – *pourquoi ?*
+- pe ma — *à qui ?* — lo penbi pe ma cu zvati lo jubme — *à qui est le stylo qui est sur la table ?*
+- lo mlatu poi mo — *Quel chat/ Quel genre de chat ?*
+
+##Questions de quantité
+
+- Pour demander combien, on utilise une phrase déclarative où on remplace le chiffre/la quantité que l'on veut connaître par le mot clé `xo`

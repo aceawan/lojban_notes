@@ -160,3 +160,19 @@
 - bruna : x1 est le frère de x2
 - panzi : x1 est l'enfant, la descendance de x2
 - ralte : x1 a / possède x2
+<<<<<<< HEAD
+=======
+- cusku : x1 dit, exprime x2 (citation) à l'audience x3
+- restku : x1 demande x2 (citation) à l'audience x3
+- spusku : x1 répond x2 à x3
+- xabju : habiter (qqpart)
+- tatpi : être fatigué
+- jungo : x1 est chinois/reflète la culture chinoise par l'aspect x2
+- pulji : x1 est un officier de police/gendarme
+- sanga : chanter
+- xebni : haïr
+- fengu : x1 être en colère contre x2 pour x3
+- cinba : x1 embrasse x2 à l'endroit x3
+- zukte : x1 fait x2 pour le but x3
+- lumci : nettoyer
+>>>>>>> 2d903eeabb7921bb0b39c273634a1bcd24dbd774
