@@ -64,6 +64,8 @@
 - mi'e : identifie le locuteur
 - co'o : au revoir
 - doi : identifie l'interlocuteur
+- ju'i : attirer l'attention
+- re'i : j'écoute
 
 ##Prépositions
 
@@ -195,3 +197,20 @@
 - restku : demander
 - spusku : répondre
 - lo zmiku : un robot
+- bredi : être prêt
+- zabna : être sympa cool
+- lo bavlamdei : le lendemain
+- lo solri : le soleil
+- pacna : espérer (un évenement)
+- makcu : être mur
+- xutla : x1 est dou, lisse, régulier dans sa texture
+- panci : x1 est une odeur émise par x2 et sentie par x3
+- lo flora : fleur(s)
+- skari : x1 est un objet de couleur x2
+- tarmi : x1 est de forme x2
+- tirna : x1 écoute x2 (objet ou son)
+- lo palta : assiette
+- cladu : x1 est bruyant, fort
+- tolycladu : x1 est silencieux
+- tonga : x1 est un son de x2
+- lo zgike : une musique
