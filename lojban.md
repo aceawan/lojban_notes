@@ -209,7 +209,7 @@ ex :
 
 - la .lojban. cu bangu mi — *Je parle lojban* (lojban est un language parlé par moi)
 
-- mi'e .datka. — *Mon nom est datka* (canard)
+- mi'e .mumoi. — *Mon nom est quentin* (cinquième)
 
 ##Le, il et elle
 
