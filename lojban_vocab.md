@@ -28,6 +28,7 @@
 - me'i (après lo suivit d'un chiffre) : moins que *chiffre*
 - za'u (avant lo) : plus de
 - me'i (avant lo) : moins de
+- so'i : beaucoup
 
 ##Interjections
 
@@ -42,7 +43,7 @@
 - pei : permet de demander quelle interjection l'interlocuteur trouverait appropriée.
 - ko'oi : impératif
 - .e'o : demande polie, s'il vous plait
-- ku'i : pourtant
+- ku'i : pourtant, mais
 - .ui : bonheur
 - .ai : intention
 - .au : désir
@@ -56,6 +57,8 @@
 - .u'i : amusement
 - ju'o : certitude - incertitude - impossibilité
 - ki'e : merci - non merci
+- la'a : probalement - peu probablement
+- sa'e : précisement parlant - parlant vaguement
 
 ##Vocatifs
 
@@ -214,3 +217,111 @@
 - tolycladu : x1 est silencieux
 - tonga : x1 est un son de x2
 - lo zgike : une musique
+- sumne : x1 sent x2 (odeur)
+- panci : x1 est un odeur de x2 (objet)
+- smaka : x1 a le gout x2 (goût)
+- tasta : x1 est un gout de x2
+- palpi : x1 palpe, touche, sent x2 (surface)
+- sefta : x1 est une surface de x2
+- cortu : x1 ressent une douleur dans x2 (membre)
+- lo cidni : le genou
+- ganse : x1 ressent x2 (objet, événement) par le moyen x3
+- lo glare : chaleur
+- lo lenku : froid
+- lo ciblu : sang
+- farna : x1 est la direction de x2
+- se farna : x1 est orienté vers x2
+- pezli : x1 est une feuille de x2
+- simlu : x1 ressemble à x2 (clause)
+- crino : x1 est vert
+- blanu : x1 est bleu
+- lo korbi : le bord
+- lo xamsi : la mer
+- narju : x1 est orange
+- zirpu : x2 est violet
+- gusni : x1 est une lumière éclairant x2 depuis la source x3
+- carmi : x1 est brillant
+- manku : x1 est obscur
+- nuzba : x1 est nouveau
+- badri : x1 est triste à propos de x2
+- steba : x1 est frustré par x2
+- speni : x1 se marrie à x2
+- cfipu : x1 rend confus x2 à cause de x3
+- pindi : x1 est pauvre
+- nitcu : x1 a besoin de x2
+- kakne : x1 peut, est capable x2
+- ciksi : expliquer
+- terpa : x1 craint x2
+- cisma : x1 sourit
+- cmila : x1 rit
+- kucli : x1 est curieux de, se demande x2
+- birti : x1 est sur, est convaincu que x2 est vrai
+- surla : x1 se détend ( en faisant x2 )
+- manci : x1 s'inquiète de x2
+- fengu : x1 est en colère à propos de x2
+- xajmi : x1 pense que x2 est drôle
+- zdile : x1 est amusant pour x2
+- pacna : x1 espère que x2 est vrai
+- bilma : x1 est malade avec les symptomes x2 et de la maladie x3
+- lo influ'enza : grippe
+- lo mikce : docteur
+- cortu : x1 a une douleur dans x2
+- la zukam : rhume commun
+- xadni : x1 est un corps de x2
+- stedu : x1 est la tête de x2
+- degji : x1 est un doigt (de pied) de x2
+- janco : x1 est une articulation de x2
+- ctebi : x1 est une lèvre de x2
+- cidni : x1 est un genou de x2
+- lo tatru : sein
+- lo kerfa : cheveux
+- lo kanla : oeil
+- lo nazbi : nez
+- lo moklu : bouche
+- lo xance : main
+- lo jamfu : le pied
+- lo tuple : la jambe
+- mutce : beaucoup
+- speni : x1 est le mari/la femme de x2
+- co'a speni : se marrier
+- lanzu : x1 est une familie incluant x2
+- panzi : x1 est un enfant de x2
+- tixnu : x1 est la fille de x2
+- bersa : x1 est le fils de x2
+- tunba: x1 est le frère/la soeur de x2
+- bruna : x1 est le frère de x2
+- mensi : x1 est la soeur de x2
+- verba : x1 est un enfant (encore à l'age de l'enfance) agé de x2
+- citno : x1 est jeune
+- laldo : x1 est agé
+- lo ninmu : femme
+- lo nanmu : homme
+- lo nixli : fille
+- lo nanla : garçon
+- lo remna : humain
+- lo fetsi : femelle
+- lo nakni : male
+- mamta : x1 est la génitrice de x2
+- patfu : x1 est le géniteur de x2
+- rirni : x1 est le parent de x2
+- lo karce : voiture
+- vecnu : x1 vend x2 à x3
+- pleji : x1 paye x2 à x3 pour x4
+- jdima : x1 est le prix de x2
+- jdini : x1 est de l'argent
+- rupnusudu : x1 coute x2 dollars
+- rupne'uru : x1 coute x2 euros
+- stuzi : x1 est un endroit
+- dinju : x1 est un batiment, une maison
+- zdani : x1 est la maison de x2
+- tcadu : x1 est une ville/village
+- jarbu : x1 est une banlieue de la ville x2
+- nurma : x1 est une aire rurale, à la campagne
+- kumfa : x1 est une chambre
+- vikmi kumfa : x1 est des toilettes
+- zarci : x1 est une boutique
+- kansa : x1 accompagne x2
+- farna : x1 est une direction de x2 du point de vu x3
+- cadzu : x1 marche
+- lo cpini : oiseau(x)
+- vofli : voler(oiseau, avion)

@@ -222,6 +222,7 @@ ex: la alis cu klama lo zarci .i le fetsi cu xagji — *Alice va dans une boutiq
 - `le prenu` : il/elle, la personne
 
 - Si plusieurs noms sont mentionnés avant, c'est le dernier nom correspondant qui s'applique
+- On
 
 ##Politesse
 
@@ -617,3 +618,98 @@ ex: .e'a pei mi klama — *Je peux y aller ?*
 - On peut demander ce que ressens l'interlocuteur.
 
 - pei lo lunra cu crino - .ie nai — *La lune est verte (qu'est ce que ça t'inspire ?) - Je ne suis pas d'accord*
+
+##Les couleurs
+
+- En lojban on peut utiliser des couleurs en elles même (xunre), mais aussi des objets grce au verbe `skari`.
+
+ex: ti skari lo ciblu — *Ceci a la couleur du sang*
+
+##Des lettres à la place de "il" et "elle"
+
+Les noms des lettres sont des pronoms, et on peut les utiliser pour référérer à des éléments précédents dans le discours. Par exemple, dans la phrase `la lukas cu viska lo mlatu .i lo mlatu cu na viska la lukas`, comme lukas commence par `l` et mlatu commence par `l`, on peut réfère à eux en disant `ly` et `my` une fois qu'on a parlé d'eux.
+
+ex: la lukas cu viska lo mlati .i my. na viska ly. — *Lucas voit le chat. Le chat ne voit pas Lucas*
+
+- Si on a un verbe composé ou un nom de plusieurs, on peut mettre les lettres les unes à la suite des autres.
+
+- Si on a besoin de séparer les lettre, on peut utiliser `boi`.
+- Si on met une interjection concerne et donc suit plusieurs lettres, il faut mettre un `boi` avant l'interjection
+
+##`ri`
+
+- `ri` réfère au dernier nom utilisée dans le discours de quelqu'un
+
+ex: mi catlu lo pa nanmu .i ri melbi — *Je regarde un homme. Il est beau*
+
+- `ri` ignore les noms dans des propositions `sei`.
+
+- `ri` ignore les pronoms comme `mi` ou `do`.
+
+- `ri` peut réfèrer à une instance précédente de lui même.
+
+##Moi-même, eux-mêmes
+
+- `mi nelci mi` (*Je aime moi*) a la même signification que `mi nelci lo nei` (*je m'aime*).
+
+- `lo nei` rerésente le premier nom de la proposition courrante.
+
+ex : lo pa gerku cu batci lo nei — *Un chien se mort*
+
+- `vo'a` a le même effet, mais sur la phrase entière.
+
+ex: la .doris. cu djuno lo du'u la .alis. cu pravi vo'a — *Doris sait que Alice l'aime*
+
+- `vo'e`, `vo'i`, `vo'o`, `vo'u` correspondent respectivement au 2eme, 3eme, 4eme et 5 eme noms de la phrase en cours.
+
+- Quand on fait des actions jointes ( `ce` ), on préfèrera utiliser `zu'ai`.
+
+ex:
+
+- la .alis. ce la .kevin. cu cinba lo nei — *Alice et Kévin s'embrassent eux-mêmes et l'un l'autre*
+- la .alis. ce la .kevin. cu cinba zu'ai — *Alice et Kévin s'embrassent l'un l'autre.*
+
+- `lo go'i` permet de référer au premier nom de la proposition précédente.
+- `lo se/te/... go'i` permet de référer au second, troisième nom de la proposition précédente.
+- La majorité du temps, `ri` peut-être utilisé, mais ces outils permettent d'éviter les ambiguités.:
+
+##Faire des prépositions avec des verbes
+
+- On peut créer des prépositions avec des verbes, grâce au mot `fi'o`
+
+ex: mi klama fi'o kansa do — *Je vais avec toi qui m'accompagne* — *Je vais avec toi*
+
+- Dans cette exemple, le verbe klama n'a aucun emplacement de sumti pour décrire avec qui on va. Donc, on utilise, d'abord la particule `fi'o`, puis le verbe, puis seulement le x1 du verbe.
+
+- En fait toutes les prépositions en lojban ont un verbe qui leur correspond (`fa'a` = `fi'o farna`), et donc on peut, si on a oublié une préposition, utiliser la forme avec fi'o
+
+- On peut utiliser `se` et sa famille dans les prépositions
+
+ex : mi klama fi'o se pilno lo jamfu — *Je marche à pieds*
+
+- La préposition correspondant et `se pi'o`. On en déduit que si une préposition avec un verbe a un `se`, `te` ou autre, la préposition en un mot l'a aussi. Les deux seules exceptions sont les suivantes:
+
+	- `pu` : fi'o se purci
+	- `ba` : fi'o se balvi
+
+##Comment les prépositions se réfèrent à la proposition ?
+
+- Certains prépositions, comme celles qui décrivent le temps, connectent la proposition courante avec le nom qui les suit directement.
+
+ex: mi pu cadzu fa'a lo rirxe — *J'ai marché le long de la rivière*
+
+- Certains prépositions décrivent une relation entre la première partie de la proposition et le nom après la préposition.
+
+ex: mi jinga se rai lo ka clani — *Je gagne toujours lo ka clani*
+
+- Enfin, certains prépositions décrivent une relation entre la première partie de la proposition et la proposition elle-même avec le nom qui suit la préposition.
+
+ex: lo fragari ce se nelci mi te rai lo jbari — Les fraises que j'aime moi de toutes les baies — *De tout les fruits rouges, ce sont les fraises que je préfère*
+
+##Prépositions: ne
+
+- `ne` peut être utilisé avec `se mau` par exemple pour dire `plus que`
+
+ex: mi ne se mau la .konas. cu prami do — Je plus que la connaisse aime toi — *Je t'aime plus que connasse.*
+
+
