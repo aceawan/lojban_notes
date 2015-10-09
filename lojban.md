@@ -182,7 +182,7 @@ ex:
 
 exs:
 
-- mi  ja'e nelci do — *Bien sûr que je t'aime*
+- mi  je'a nelci do — *Bien sûr que je t'aime*
 - na'e mi nelci do — *Moi, je ne t'aime pas*
 
 - Il y a également deux préposition:
