@@ -1,6 +1,6 @@
-#Lojban — Vocabulaire
+# Lojban — Vocabulaire
 
-##Pronoms
+## Pronoms
 
 - mi : je
 - do : tu
@@ -10,7 +10,7 @@
 - ta : ça
 - tu : ça là-bas
 
-##Nombres
+## Nombres
 
 - 0 : no
 - 1 : pa
@@ -30,7 +30,7 @@
 - me'i (avant lo) : moins de
 - so'i : beaucoup
 
-##Interjections
+## Interjections
 
 - xu : question
 - je'u : oui, vrai
@@ -60,7 +60,7 @@
 - la'a : probalement - peu probablement
 - sa'e : précisement parlant - parlant vaguement
 
-##Vocatifs
+## Vocatifs
 
 - coi : salut, salutations
 - di'ai : souhait (qqch à qqn)
@@ -70,7 +70,7 @@
 - ju'i : attirer l'attention
 - re'i : j'écoute
 
-##Prépositions
+## Prépositions
 
 - pu : avant
 - ca : pendant
@@ -86,7 +86,7 @@
 - ri'a : parce que (un évenement)
 - ze'u : longtemps, pour un long moment
 
-##Selbri
+## Selbri
 
 - pinxe : boire
 - mlatu : est un chat
